@@ -1,0 +1,17 @@
+1. Tried to install entitymatching but there was an error saying "could not find a version that satisfies the requirement in python"
+2. We then upgraded the pip with
+	pip install --upgrade pip
+3. This did fix the version error but we got new error:"fatal error lnk1112 module machine type 'x86' conflicts with target"
+4. We tried different setting with Linker but it did not work
+5. we uninstalled python and every dependency
+6. Installed Python x86 then pip and then py_entitymatching with:
+	install py_entitymatching
+7. This time it worked but still we had to install/ upgrade the following dependencies to work:
+	a. Upgrade "ipython":
+		pip install --upgrade IPython
+	b. Install "requests":
+		pip install requests
+	c. Install "sciphy"
+		pip install sciphy
+	
+

@@ -1,0 +1,15 @@
+D:\TU\_SEM 3\800-6\Data Integration\DataIntegration\Assignments\Assignment 1\Source\DI_App\DI_App\obj\Debug\ResolveAssemblyReference.cache
+D:\TU\_SEM 3\800-6\Data Integration\DataIntegration\Assignments\Assignment 1\Source\DI_App\DI_App\bin\Debug\DI_App.exe
+D:\TU\_SEM 3\800-6\Data Integration\DataIntegration\Assignments\Assignment 1\Source\DI_App\DI_App\bin\Debug\DI_App.pdb
+D:\TU\_SEM 3\800-6\Data Integration\DataIntegration\Assignments\Assignment 1\Source\DI_App\DI_App\obj\Debug\DI_App.exe
+D:\TU\_SEM 3\800-6\Data Integration\DataIntegration\Assignments\Assignment 1\Source\DI_App\DI_App\obj\Debug\DI_App.pdb
+D:\TU\_SEM 3\800-6\Data Integration\DataIntegration\Assignments\Assignment 3\Source\DI_App\DI_App\obj\Debug\DI_App.exe
+D:\TU\_SEM 3\800-6\Data Integration\DataIntegration\Assignments\Assignment 3\Source\DI_App\DI_App\obj\Debug\DI_App.pdb
+D:\TU\_SEM 3\800-6\Data Integration\DataIntegration\Assignments\Assignment 3\Source\DI_App\DI_App\bin\Debug\DI_App.exe
+D:\TU\_SEM 3\800-6\Data Integration\DataIntegration\Assignments\Assignment 3\Source\DI_App\DI_App\bin\Debug\DI_App.pdb
+D:\TU\_SEM 3\800-6\Data Integration\DataIntegration\Assignments\Assignment 3\Source\DI_App\DI_App\obj\Debug\ResolveAssemblyReference.cache
+D:\TU\_SEM 3\800-6\Data Integration\DataIntegration\Assignments\Assignment 3\Source\Task 1\DI_App\DI_App\obj\Debug\DI_App.exe
+D:\TU\_SEM 3\800-6\Data Integration\DataIntegration\Assignments\Assignment 3\Source\Task 1\DI_App\DI_App\obj\Debug\DI_App.pdb
+D:\TU\_SEM 3\800-6\Data Integration\DataIntegration\Assignments\Assignment 3\Source\Task 1\DI_App\DI_App\bin\Debug\DI_App.exe
+D:\TU\_SEM 3\800-6\Data Integration\DataIntegration\Assignments\Assignment 3\Source\Task 1\DI_App\DI_App\bin\Debug\DI_App.pdb
+D:\TU\_SEM 3\800-6\Data Integration\DataIntegration\Assignments\Assignment 3\Source\Task 1\DI_App\DI_App\obj\Debug\ResolveAssemblyReference.cache

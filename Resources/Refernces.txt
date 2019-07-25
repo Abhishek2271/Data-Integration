@@ -1,0 +1,12 @@
+Really nice read about the blockers:
+http://anhaidgroup.github.io/py_entitymatching/v0.1.x/user_manual/blocking.html
+https://openproceedings.org/2018/conf/edbt/paper-82.pdf
+
+Everything about the Entity Matching:
+http://anhaidgroup.github.io/py_entitymatching/v0.3.x/index.html
+
+Everthing Else:
+https://medium.com/district-data-labs/basics-of-entity-resolution-with-python-and-dedupe-bc87440b64d4
+http://anhaidgroup.github.io/py_entitymatching/v0.1.x/user_manual/guides.html
+https://sites.google.com/site/anhaidgroup/projects/magellan/py_entitymatching
+
